@@ -1,3 +1,10 @@
+## [1.1.4-staging.2](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.1...v1.1.4-staging.2) (2024-05-20)
+
+
+### Bug Fixes
+
+* **releaserc:** adding npm plugin ([bf2dfc8](https://github.com/arslanfareed/Versioning/commit/bf2dfc816d8afe46022c1ec3d5404ca2f1a66703))
+
 ## [1.1.4-staging.1](https://github.com/arslanfareed/Versioning/compare/v1.1.3...v1.1.4-staging.1) (2024-05-20)
 
 
