@@ -1,3 +1,10 @@
+## [1.1.2-staging.1](https://github.com/arslanfareed/Versioning/compare/v1.1.1...v1.1.2-staging.1) (2024-05-20)
+
+
+### Bug Fixes
+
+* **index.js:** updating response msg ([392a1d0](https://github.com/arslanfareed/Versioning/commit/392a1d08e9ddfe1304f7b62d3d58c9e81dc0ce23))
+
 ## [1.1.1](https://github.com/arslanfareed/Versioning/compare/v1.1.0...v1.1.1) (2024-05-20)
 
 
