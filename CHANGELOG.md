@@ -1,3 +1,10 @@
+## [1.1.4-staging.6](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.5...v1.1.4-staging.6) (2024-05-20)
+
+
+### Bug Fixes
+
+* removng npm_token ([adc3e32](https://github.com/arslanfareed/Versioning/commit/adc3e324c18ad7d7cdb47a034735145ed2b43824))
+
 ## [1.1.4-staging.5](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.4...v1.1.4-staging.5) (2024-05-20)
 
 
