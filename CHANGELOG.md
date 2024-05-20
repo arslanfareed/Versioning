@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/arslanfareed/Versioning/compare/v1.0.5...v1.1.0) (2024-05-20)
+
+
+### Features
+
+* **index.js:** updating Response ([9244575](https://github.com/arslanfareed/Versioning/commit/924457597fdfb83e5f1a8a8489a1bc01183e19c0))
+
 ## [1.0.5](https://github.com/arslanfareed/Versioning/compare/v1.0.4...v1.0.5) (2024-05-20)
 
 
