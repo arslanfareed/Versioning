@@ -1,3 +1,32 @@
+## [1.1.1-staging.1](https://github.com/arslanfareed/Versioning/compare/v1.1.0...v1.1.1-staging.1) (2024-05-20)
+
+
+### Bug Fixes
+
+* **.releaserc:** add npm plugin ([0874187](https://github.com/arslanfareed/Versioning/commit/0874187829cb18d8d9e3fb52e9cc9a4827d9c195))
+* **index.html:** updating response ([78524be](https://github.com/arslanfareed/Versioning/commit/78524be2c13d5f72e1813e2ab176df8f1f317284))
+* **release.yml:** adding one more branch ([70350c5](https://github.com/arslanfareed/Versioning/commit/70350c511ee9e6b0a88fd0f3490e89a16fb94837))
+* **releaserc:** adding staging branch in release as well ([66e03ba](https://github.com/arslanfareed/Versioning/commit/66e03baaf80c220b8ee6797ae3d154a47acc7577))
+
+# [1.1.0-staging.2](https://github.com/arslanfareed/Versioning/compare/v1.1.0-staging.1...v1.1.0-staging.2) (2024-05-20)
+
+
+### Bug Fixes
+
+* **index.html:** updating response ([78524be](https://github.com/arslanfareed/Versioning/commit/78524be2c13d5f72e1813e2ab176df8f1f317284))
+
+# [1.1.0-staging.1](https://github.com/arslanfareed/Versioning/compare/v1.0.3...v1.1.0-staging.1) (2024-05-20)
+
+
+### Bug Fixes
+
+* **.releaserc:** add npm plugin ([0874187](https://github.com/arslanfareed/Versioning/commit/0874187829cb18d8d9e3fb52e9cc9a4827d9c195))
+* adding work flow ([660f2f9](https://github.com/arslanfareed/Versioning/commit/660f2f9155ca39dde01d3d8767b7a56f9c865866))
+* adding workflow 2 ([421cbf0](https://github.com/arslanfareed/Versioning/commit/421cbf00a8cadaff4ac33e5917854b3f07421edd))
+* **release.yml:** adding one more branch ([70350c5](https://github.com/arslanfareed/Versioning/commit/70350c511ee9e6b0a88fd0f3490e89a16fb94837))
+* **releaserc:** adding staging branch in release as well ([66e03ba](https://github.com/arslanfareed/Versioning/commit/66e03baaf80c220b8ee6797ae3d154a47acc7577))
+* updating response ([c046863](https://github.com/arslanfareed/Versioning/commit/c046863573deae6d21259900d38ee5e5671e8109))
+
 # [1.1.0](https://github.com/arslanfareed/Versioning/compare/v1.0.5...v1.1.0) (2024-05-20)
 
 
