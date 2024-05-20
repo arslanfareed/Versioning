@@ -1,3 +1,10 @@
+## [1.1.4-staging.4](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.3...v1.1.4-staging.4) (2024-05-20)
+
+
+### Bug Fixes
+
+* reseting to specific commit ([97efd56](https://github.com/arslanfareed/Versioning/commit/97efd563d5499d31523094f370a705a1a115c216))
+
 ## [1.1.4-staging.2](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.1...v1.1.4-staging.2) (2024-05-20)
 
 
