@@ -1,3 +1,10 @@
+## [1.1.4-staging.1](https://github.com/arslanfareed/Versioning/compare/v1.1.3...v1.1.4-staging.1) (2024-05-20)
+
+
+### Bug Fixes
+
+* **release.rc:** updating prelease to true ([9720c06](https://github.com/arslanfareed/Versioning/commit/9720c06816313710dccd1916220622c223ddc21b))
+
 ## [1.1.3](https://github.com/arslanfareed/Versioning/compare/v1.1.2...v1.1.3) (2024-05-20)
 
 
