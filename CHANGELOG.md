@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/arslanfareed/Versioning/compare/v1.0.2...v1.0.3) (2024-05-20)
+
+
+### Bug Fixes
+
+* updating version ([221f6e5](https://github.com/arslanfareed/Versioning/commit/221f6e5fed78d0fff8f6fc2b120e85fb46b01ba1))
+
 ## [1.0.2](https://github.com/arslanfareed/Versioning/compare/v1.0.1...v1.0.2) (2024-05-20)
 
 
