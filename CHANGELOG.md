@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/arslanfareed/Versioning/compare/v1.0.4...v1.0.5) (2024-05-20)
+
+
+### Bug Fixes
+
+* updating response ([c046863](https://github.com/arslanfareed/Versioning/commit/c046863573deae6d21259900d38ee5e5671e8109))
+
 ## [1.0.4](https://github.com/arslanfareed/Versioning/compare/v1.0.3...v1.0.4) (2024-05-20)
 
 
