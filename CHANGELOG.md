@@ -1,3 +1,10 @@
+## [1.1.4-staging.7](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.6...v1.1.4-staging.7) (2024-05-20)
+
+
+### Bug Fixes
+
+* **updating response:** updating response] ([67c13a7](https://github.com/arslanfareed/Versioning/commit/67c13a784dc098699173893ee604a0827dfe9959))
+
 ## [1.1.4-staging.6](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.5...v1.1.4-staging.6) (2024-05-20)
 
 
