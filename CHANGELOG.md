@@ -1,11 +1,3 @@
-## [1.1.4-staging.3](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.2...v1.1.4-staging.3) (2024-05-20)
-
-
-### Bug Fixes
-
-* **index.js:** updating response ([1c028cd](https://github.com/arslanfareed/Versioning/commit/1c028cd182d5c5bc89623aadd9ce811c24a15286))
-* **release.yml:** adding NPM_TOEKN ([994ceec](https://github.com/arslanfareed/Versioning/commit/994ceec780b156bb6ee3cb2909fd308ce592292f))
-
 ## [1.1.4-staging.2](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.1...v1.1.4-staging.2) (2024-05-20)
 
 
