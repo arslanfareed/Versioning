@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/arslanfareed/Versioning/compare/v1.1.2...v1.1.3) (2024-05-20)
+
+
+### Bug Fixes
+
+* **releaserc:** update prelease to false ([bee5024](https://github.com/arslanfareed/Versioning/commit/bee50241011d01c28f39a3e382fb4962b2de3c19))
+
 ## [1.1.2](https://github.com/arslanfareed/Versioning/compare/v1.1.1...v1.1.2) (2024-05-20)
 
 
