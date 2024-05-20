@@ -1,3 +1,17 @@
+## [1.1.4](https://github.com/arslanfareed/Versioning/compare/v1.1.3...v1.1.4) (2024-05-20)
+
+
+### Bug Fixes
+
+* **index.js:** updating response ([1c028cd](https://github.com/arslanfareed/Versioning/commit/1c028cd182d5c5bc89623aadd9ce811c24a15286))
+* **release.rc:** updating prelease to true ([9720c06](https://github.com/arslanfareed/Versioning/commit/9720c06816313710dccd1916220622c223ddc21b))
+* **release.yml:** adding NPM_TOEKN ([994ceec](https://github.com/arslanfareed/Versioning/commit/994ceec780b156bb6ee3cb2909fd308ce592292f))
+* **releaserc:** adding npm plugin ([bf2dfc8](https://github.com/arslanfareed/Versioning/commit/bf2dfc816d8afe46022c1ec3d5404ca2f1a66703))
+* **releaserc:** marking npm publish false ([5171d53](https://github.com/arslanfareed/Versioning/commit/5171d5306a310390765c8036c42230a159bae521))
+* removng npm_token ([adc3e32](https://github.com/arslanfareed/Versioning/commit/adc3e324c18ad7d7cdb47a034735145ed2b43824))
+* reseting to specific commit ([97efd56](https://github.com/arslanfareed/Versioning/commit/97efd563d5499d31523094f370a705a1a115c216))
+* **updating response:** updating response] ([67c13a7](https://github.com/arslanfareed/Versioning/commit/67c13a784dc098699173893ee604a0827dfe9959))
+
 ## [1.1.4-staging.7](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.6...v1.1.4-staging.7) (2024-05-20)
 
 
