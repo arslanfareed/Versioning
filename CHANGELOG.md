@@ -1,3 +1,10 @@
+## [1.1.4-staging.5](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.4...v1.1.4-staging.5) (2024-05-20)
+
+
+### Bug Fixes
+
+* **releaserc:** marking npm publish false ([5171d53](https://github.com/arslanfareed/Versioning/commit/5171d5306a310390765c8036c42230a159bae521))
+
 ## [1.1.4-staging.4](https://github.com/arslanfareed/Versioning/compare/v1.1.4-staging.3...v1.1.4-staging.4) (2024-05-20)
 
 
