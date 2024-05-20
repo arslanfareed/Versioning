@@ -10,10 +10,27 @@
 * **releaserc:** adding staging branch in release as well ([66e03ba](https://github.com/arslanfareed/Versioning/commit/66e03baaf80c220b8ee6797ae3d154a47acc7577))
 * updating response ([c046863](https://github.com/arslanfareed/Versioning/commit/c046863573deae6d21259900d38ee5e5671e8109))
 
+# [1.1.0](https://github.com/arslanfareed/Versioning/compare/v1.0.5...v1.1.0) (2024-05-20)
+
 
 ### Features
 
 * **index.js:** updating Response ([9244575](https://github.com/arslanfareed/Versioning/commit/924457597fdfb83e5f1a8a8489a1bc01183e19c0))
+
+## [1.0.5](https://github.com/arslanfareed/Versioning/compare/v1.0.4...v1.0.5) (2024-05-20)
+
+
+### Bug Fixes
+
+* updating response ([c046863](https://github.com/arslanfareed/Versioning/commit/c046863573deae6d21259900d38ee5e5671e8109))
+
+## [1.0.4](https://github.com/arslanfareed/Versioning/compare/v1.0.3...v1.0.4) (2024-05-20)
+
+
+### Bug Fixes
+
+* adding work flow ([660f2f9](https://github.com/arslanfareed/Versioning/commit/660f2f9155ca39dde01d3d8767b7a56f9c865866))
+* adding workflow 2 ([421cbf0](https://github.com/arslanfareed/Versioning/commit/421cbf00a8cadaff4ac33e5917854b3f07421edd))
 
 ## [1.0.3](https://github.com/arslanfareed/Versioning/compare/v1.0.2...v1.0.3) (2024-05-20)
 
